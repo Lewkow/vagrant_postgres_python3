@@ -6,7 +6,7 @@ sudo yum -y update
 sudo yum -y install postgresql-server postgresql-contrib 
 sudo yum -y install vim wget gcc
 sudo yum install python-devel
-sudo yum install postgresql-devel
+sudo yum install python-devel
 sudo yum install postgresql-libs
 
 # create new database cluster
